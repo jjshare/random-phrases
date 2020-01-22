@@ -1,5 +1,5 @@
 <?php
-namespace Jjshare\RandomPhrases;
+namespace RandomPhrases;
 
 class Creator {
     /**
