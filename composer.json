@@ -2,11 +2,13 @@
     "name": "jjshare/random-phrases",
     "description": "随机字符串字符、数字，自定义字符。",
     "type": "metapackage",
+    "license": "mit",
     "authors": [
         {
             "name": "jiang ming",
             "email": "jmone2006@126.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
